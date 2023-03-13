@@ -448,7 +448,7 @@ const Templates = {
                                                                         "
                                                                       >
                                                                         <a
-                                                                          href="https://mjml.io/"
+                                                                          href="#"
                                                                           target="_blank"
                                                                           ><img
                                                                             height="30"

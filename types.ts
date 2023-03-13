@@ -1,6 +1,6 @@
 export interface MailerData {
     receiver_name?: string;
-    receiver_email: string;
+    receiver_email: [string];
     sender_identity?: string;
     sender_email?: string;
     subject: string;
