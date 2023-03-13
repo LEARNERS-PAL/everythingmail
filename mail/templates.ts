@@ -8,7 +8,7 @@ const Templates = {
         <!DOCTYPE html>
         <html>
           <head>
-            <title>Discount Light</title>
+            <title>E-MAIL</title>
             <meta http-equiv="X-UA-Compatible" content="IE=edge" />
             <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
             <meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -79,7 +79,7 @@ const Templates = {
                 overflow: hidden;
               "
             >
-              Pre-header Text
+              Sent from Everything Mail (E-Mail)
             </div>
             <div style="background-color: #e7e7e7">
               <table
