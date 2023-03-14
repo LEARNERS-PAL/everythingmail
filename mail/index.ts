@@ -6,7 +6,7 @@ const MailDriver = async (data: MailerData, callback: any) => {
   // destructure data
   const { receiver_email, sender_email, sender_identity, subject, noreply } = data;
   const mailOptions = {
-    from: `${sender_identity || "EVERYTHINGMAIL- UNKNOWN"} <${noreply ? "NO-REPLY" : sender_email || "no-reply@everythingmailer.com"}>`,
+    from: `${sender_identity || "NO-REPLY"} <${sender_email || "no-reply@everythingmailer.com"}>`,
     to: receiver_email,
     subject: subject,
     text: Templates.TEXT(data),
