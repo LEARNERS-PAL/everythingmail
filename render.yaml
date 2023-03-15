@@ -1,0 +1,7 @@
+services:
+  - name: funcat-api
+    dockerfile: Dockerfile
+    env:
+      - name: NODE_ENV
+        value: production
+    plan: starter
