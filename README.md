@@ -89,7 +89,7 @@ $ yarn start
 ## :memo: Contributors ##
 These wonderful people have contributed to this project:
 
-<!-- readme: contributors -end -->
+<!-- readme: contributors -start -->
 <!-- readme: contributors -end -->
 
 
