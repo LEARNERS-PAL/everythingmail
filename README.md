@@ -38,8 +38,8 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/qbentil" target="_blank">Author</a>
+  <!-- <a href="#memo-license">License</a> &#xa0; | &#xa0; -->
+  <a href="##memo-contributors" target="_blank">Contributors</a>
 </p>
 
 <br>
@@ -86,9 +86,11 @@ $ yarn start
 # The server will initialize in the <http://localhost:3000>
 ```
 
-## :memo: License ##
+## :memo: Contributors ##
+These wonderful people have contributed to this project:
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+<!-- readme: contributors -end -->
+<!-- readme: contributors -end -->
 
 
 This project follows the [all-contributors]() specification. Contributions of any kind are welcome!
