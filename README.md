@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-Describe your project
+This is a simple API that allows you to send emails from your website. It is built with Node.js, Express, and Nodemailer.
 
 ## :sparkles: Features ##
 
@@ -90,6 +90,11 @@ $ yarn start
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
+
+This project follows the [all-contributors]() specification. Contributions of any kind are welcome!
+You are welcome to contribute to this project.
+
+Please read the [CONTIBUTING.md]() file for details on our code of conduct, and the process for submitting pull requests to us.
 
 Made with :heart: by <a href="https://github.com/qbentil" target="_blank">Shadrack Bentil</a>
 
