@@ -62,7 +62,6 @@ The following tools were used in this project:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Express](https://expressjs.com/)
 - [Nodemailer](https://nodemailer.com/about/)
-- []
 
 ## :white_check_mark: Requirements ##
 
