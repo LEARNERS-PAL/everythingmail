@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#sparkles-objectives">Objectives</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -46,13 +46,26 @@
 
 ## :dart: About ##
 
-This is a simple API that allows you to send emails from your website. It is built with Node.js, Express, and Nodemailer.
+Email communication is an essential feature of many web and mobile applications, and developers often face challenges integrating email functionality into their applications. Currently, there are limited open-source options available for developers to use, which creates a need for an open-source API for sending and receiving emails that is easy to use and flexible. This project aims to address this gap by developing an open-source API that can be used by developers to integrate email functionality into their applications quickly.
 
-## :sparkles: Features ##
+**Case Study:**
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+Consider a case where a web developer is building an e-commerce platform that requires email notifications for order confirmation, order updates, and other customer-related communication. The developer can either develop a custom email sending solution or use an existing email service provider like Gmail, SendGrid, or MailChimp. However, custom solutions can be time-consuming to develop, while existing email service providers may have limitations in terms of customization, security, or cost.
+
+By using our open-source email sending server API, the developer can easily integrate email functionality into their e-commerce platform with minimal effort. The API provides a simple and customizable solution that can be tailored to meet the specific needs of the project. Moreover, the use of TypeScript ensures that the code is robust and easy to maintain, while Nodemailer provides a reliable and secure email sending service.
+
+
+## :sparkles: Objectives ##
+
+Objective
+The objective of this project is to develop an open-source email sending server API using Nodemailer and TypeScript that simplifies the process of integrating email functionality into web and mobile applications. The API should provide developers with a customizable, secure, and reliable solution for sending emails, without requiring extensive technical knowledge or experience. The project aims to foster a collaborative community of developers who can contribute to and benefit from the project, ensuring that the API remains up-to-date, secure, and adaptable to the evolving needs of the developer community. Ultimately, the objective is to improve the overall user experience for applications that require email functionality, making it easier and more convenient for developers to add email capabilities to their projects.
+The following are some of the features that the open-source API for sending and receiving emails should have:
+1.	**Customizable**: The API should provide developers with the ability to customize various aspects of the email sending process, including email content, attachments, and sender/receiver details.
+2.	**Secure**: The API should implement industry-standard security measures to ensure that email data is protected during transit and at rest.
+3.	**Reliable**: The API should be robust and able to handle high volumes of email traffic, with minimal downtime or errors.
+4.	**Easy to use**: The API should be user-friendly, with clear documentation and easy-to-understand code.
+5.	**Adaptable**: The API should be adaptable to different programming languages and frameworks, enabling developers to use it in a wide range of projects.
+
 
 ## :rocket: Technologies ##
 
