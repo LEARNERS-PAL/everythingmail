@@ -78,7 +78,7 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+All you need as a requirement is the API URL and a clear understanding of the various endpoints as well as the data the endpoint requires.
 
 ## :checkered_flag: Starting ##
 
@@ -118,7 +118,7 @@ These wonderful people have contributed to this project:
 This project follows the [all-contributors]() specification. Contributions of any kind are welcome!
 You are welcome to contribute to this project.
 
-Please read the [CONTIBUTING.md]() file for details on our code of conduct, and the process for submitting pull requests to us.
+Please read the [CONTIBUTING.md](./CONTRIBUTING.md) file for details on our code of conduct, and the process for submitting pull requests to us.
 
 Made with :heart: by <a href="https://github.com/qbentil" target="_blank">Shadrack Bentil</a>
 
