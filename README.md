@@ -6,7 +6,7 @@
   <a href="https://everythingmail.onrender.com">API Demo</a>
 </div>
 
-<h1 align="center">Everythingmail </h1>
+<h1 align="center">Everythingmail API </h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/LEARNERS-PAL/everythingmail?color=56BEB8">
