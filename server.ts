@@ -7,7 +7,7 @@ dotenv.config()
 const PORT = process.env.PORT || 8000
 const APP = express()
 APP.use(express.json())
-APP.use("/send", SEND_ROUTE)
+APP.use("/api/send", SEND_ROUTE)
 
 APP.use(ErrorHandler)
 
