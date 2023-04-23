@@ -1,5 +1,6 @@
 import React from 'react'
 import Navbar from '../navbar'
+import Link from "next/link";
 
 const Hero = () => {
   return (
@@ -9,9 +10,11 @@ const Hero = () => {
         <h1 className="text-5xl font-bold text-white text-center">
           Open-Source Email Sending Server API
         </h1>
-        <button className="bg-[#009ce0] text-white py-2 px-5 rounded-xl">
-          <a href="#">View Demo</a>
-        </button>
+        <Link href="/form">
+          <button className="bg-[#009ce0] text-white py-2 px-5 rounded-xl">
+           View Demo
+          </button>
+        </Link>
       </article>
     </section>
   );

@@ -6,7 +6,7 @@ import { VscServerProcess } from "react-icons/vsc";
 
 const Features = () => {
   return (
-    <main className="flex lg:flex-row flex-col gap-16 lg:gap-0 justify-between py-14">
+    <main className="flex lg:flex-row flex-col gap-16 lg:gap-0 justify-between py-16">
       <section className="flex flex-col gap-16 lg:px-14 px-8 w-full">
         <article className="flex gap-4 items-center">
           <div className="text-white text-4xl bg-[#009ce0] p-2 rounded-full">
