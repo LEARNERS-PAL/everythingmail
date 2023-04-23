@@ -134,8 +134,6 @@ You are welcome to contribute to this project.
 
 Please read the [CONTIBUTING.md](./CONTRIBUTING.md) file for details on our code of conduct, and the process for submitting pull requests to us.
 
-Made with :heart: by <a href="https://github.com/qbentil" target="_blank">Shadrack Bentil</a>
-
 &#xa0;
 
 <a href="#top">Back to top</a>
