@@ -808,16 +808,22 @@ const Templates = {
   TEXT: (data: MailerData) => {
     const { receiver_name, sender_identity, sender_email, subject, message, receiver_email, noreply } = data;
     return `	
-        Hello ${receiver_name},
-        
-        You have a new message from ${sender_identity} (${sender_email}).
 
-        Message: ${message}
-
-        You can reply to this email to send a reply to ${sender_identity} (${sender_email}).
+        ${message} <br /> <br />
 
         Regards,
         Everythingmail Team
+        `;
+  },
+
+  HTML2: (data: MailerData) => {
+    const { receiver_name, sender_identity, sender_email, subject, message, receiver_email, noreply } = data;
+    return `	
+
+        ${message} <br /> <br />
+
+        Regards,
+        <a href="https://github.com/LEARNERS-PAL/everythingmail#checkered_flag-starting" target="_blank">Everythingmail Team</a>
         `;
   }
 };
