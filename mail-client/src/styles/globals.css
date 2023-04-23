@@ -1,9 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-.hero-email{
-   background-image:
-    linear-gradient(to bottom, rgba(16, 16, 16, 0.52), rgba(16, 16, 16, 0.52)),
-    url('../../public/images/e2.jpg');
-}
