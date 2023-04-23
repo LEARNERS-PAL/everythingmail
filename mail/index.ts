@@ -10,7 +10,7 @@ const MailDriver = async (data: MailerData, callback: any) => {
     to: receiver_email,
     subject: subject,
     text: Templates.TEXT(data),
-    html: Templates.HTML(data),
+    html: Templates.TEXT(data),
   };
   try {
     const info = await transporter.sendMail(mailOptions);

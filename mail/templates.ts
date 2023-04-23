@@ -808,7 +808,16 @@ const Templates = {
   TEXT: (data: MailerData) => {
     const { receiver_name, sender_identity, sender_email, subject, message, receiver_email, noreply } = data;
     return `	
-              
+        Hello ${receiver_name},
+        
+        You have a new message from ${sender_identity} (${sender_email}).
+
+        Message: ${message}
+
+        You can reply to this email to send a reply to ${sender_identity} (${sender_email}).
+
+        Regards,
+        Everythingmail Team
         `;
   }
 };
