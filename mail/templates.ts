@@ -822,7 +822,7 @@ const Templates = {
 
         ${message} <br /> <br />
 
-        Regards,
+        Regards, <br />
         <a href="https://github.com/LEARNERS-PAL/everythingmail#checkered_flag-starting" target="_blank">Everythingmail Team</a>
         `;
   }
