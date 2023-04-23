@@ -1,6 +1,7 @@
 import Features from "@/components/features";
 import Hero from "@/components/hero";
 import Objectives from "@/components/objectives";
+import Technologies from "@/components/stack";
 
 
 export default function Home() {
@@ -9,6 +10,7 @@ export default function Home() {
       <Hero />
       <Features/>
       <Objectives/>
+      <Technologies/>
     </main>
   );
 }
