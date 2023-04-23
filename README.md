@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Everythingmail" />
+  <img src="./.github/demo/emailer.png" alt="Everythingmail" />
 
   &#xa0;
 
