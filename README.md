@@ -117,6 +117,13 @@ These wonderful people have contributed to this project:
             <br />
             <sub><b>Baaba Dampare</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Derelmi">
+            <img src="https://avatars.githubusercontent.com/u/87049674?v=4" width="100;" alt="Derelmi"/>
+            <br />
+            <sub><b>RICHARD CHUKWU DERELMI</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
