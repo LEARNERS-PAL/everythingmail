@@ -29,7 +29,8 @@
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^6.8.2",
     "nodemailer": "^6.8.0",
-    "nodemon": "^2.0.20"
+    "nodemon": "^2.0.20",
+    "react-icons": "^4.8.0"
   },
   "engines": {
     "node": ">=14 <15"
