@@ -110,6 +110,13 @@ These wonderful people have contributed to this project:
             <br />
             <sub><b>Bentil Shadrack</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/baabashinelle">
+            <img src="https://avatars.githubusercontent.com/u/83133493?v=4" width="100;" alt="baabashinelle"/>
+            <br />
+            <sub><b>Baaba Dampare</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
