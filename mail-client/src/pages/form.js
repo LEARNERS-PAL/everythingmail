@@ -1,12 +1,10 @@
 import ContactForm from "@/components/contact-form";
-import Footer from "@/components/footer";
-import Navbar from "@/components/navbar";
+
 
 export default function Form() {
     return(
-        <>
+        <main className="lg:h-screen overflow-hidden">
         <ContactForm/>
-        <Footer/>
-        </>
+        </main>
     )
 }
