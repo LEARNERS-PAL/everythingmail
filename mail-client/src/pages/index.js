@@ -1,12 +1,14 @@
 import Features from "@/components/features";
 import Hero from "@/components/hero";
-import Image from "next/image";
+import Objectives from "@/components/objectives";
+
 
 export default function Home() {
   return (
     <main className="">
       <Hero />
       <Features/>
+      <Objectives/>
     </main>
   );
 }

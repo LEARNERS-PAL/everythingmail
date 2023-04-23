@@ -14,7 +14,7 @@ const Features = () => {
           </div>
           <div>
             <h3 className="font-bold text-lg">Customizable</h3>
-            <p>
+            <p className="text-lg">
               The API should provide developers with the ability to customize
               various aspects of the email sending process, including email
               content, attachments, and sender/receiver details.
@@ -27,7 +27,7 @@ const Features = () => {
           </div>
           <div>
             <h3 className="font-bold text-lg">Secure</h3>
-            <p>
+            <p className="text-lg">
               The API should implement industry-standard security measures to
               ensure that email data is protected during transit and at rest.
             </p>
@@ -41,7 +41,7 @@ const Features = () => {
           </div>
           <div>
             <h3 className="font-bold text-lg">Reliable</h3>
-            <p>
+            <p className="text-lg">
               The API should be robust and able to handle high volumes of email
               traffic, with minimal downtime or errors.
             </p>
@@ -53,7 +53,7 @@ const Features = () => {
           </div>
           <div>
             <h3 className="font-bold text-lg">Adaptable</h3>
-            <p>
+            <p className="text-lg">
               The API should be adaptable to different programming languages and
               frameworks, enabling developers to use it in a wide range of
               projects.
