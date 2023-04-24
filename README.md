@@ -3,7 +3,7 @@
 
 &#xa0;
 
-<a href="https://everythingmail.onrender.com">API Demo</a>
+<a href="https://everything-mail.vercel.app/">DEMO</a>
 
 </div>
 
