@@ -71,7 +71,7 @@ The following are some of the features that the open-source API for sending and 
 
 ```javascript
 // the data this endpoint takes
-
+const BASE_URL = "https://everythingmail.onrender.com/"
 type MailData = {
   receiver_email: string,
   sender_email?: string | undefined,
@@ -91,7 +91,7 @@ type MailData = {
 try {
   const { data } = await axios({
     method: "POST",
-    url: "https://everythingmail.onrender.com/api/send"
+    url: `${BASE_URL}/api/send`
     data: mailData,
     headers: { "Content-Type": "application/json" },
   });
@@ -106,7 +106,7 @@ try {
 
 ```bash
     try {
-      const response = await fetch("https://everythingmail.onrender.com/api/send", {
+      const response = await fetch(`${BASE_URL}/api/send`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(mailData),
