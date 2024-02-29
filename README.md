@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/demo/emailer.png" alt="Everythingmail" />
+<img src="https://github.com/LEARNERS-PAL/Everythinmail-DEMO/assets/55560024/a9cd7e46-c1e8-443d-a6b8-476407ef5bfd" alt="Everythingmail" />
 
 &#xa0;
 
